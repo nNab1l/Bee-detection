@@ -23,7 +23,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">OCR translation app</h3>
+<h3 align="center">Bee detection</h3>
 
   <p align="center">
     <br />
@@ -49,7 +49,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#usage">Dependencies</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -91,7 +91,7 @@ the code will use the CPU if Nvidia cuda is not found on the system
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Prerequisites
+### Dependencies
 
 there are several dependencies needed in order for it
 to work 
@@ -107,6 +107,14 @@ to work
 * numpy
   ```sh
   pip install numpy
+  ```
+* Pytorch
+  ```sh
+  pip install torch
+  ```
+* Supervision
+  ```sh
+  pip install supervision
   ```
 
 
