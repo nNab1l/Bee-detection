@@ -84,16 +84,17 @@ I trained it on 2 models.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Although everything works fine on the CPU, generally, the using the 
+Although everything works fine on the CPU, generally, using the 
 GPU is recommended meaning Nvidia cuda is needed to use the GPU.
-the code will use the CPU if Nvidia cuda is not found on the system
+the code will use the CPU if Nvidia cuda is not found or
+not correctly configured on the system
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Dependencies
 
-there are several dependencies needed in order for it
+There are several dependencies needed in order for it
 to work 
 
 * ultralytics
