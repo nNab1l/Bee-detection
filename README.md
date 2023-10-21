@@ -60,11 +60,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot]readmeimg.png)](usage)
 
 One of my first machine learning projects is this bee detection I created
 by using YOLOV8's powerful architecture. I prepared the dataset myself and
 I trained it on 2 models.
+
+[![Product Name Screen Shot](readmeimg.png)](usage)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,7 +125,7 @@ to work
 
 nabilsalimi0229@gmail.com
 
-Project Link: [https://github.com/nNab1l/Bee-detection](https://github.com/nNab1l/OCR-translation)
+Project Link: [https://github.com/nNab1l/Bee-detection](https://github.com/nNab1l/Bee-detection)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
